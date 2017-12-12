@@ -90,6 +90,10 @@ The disk will be created. Watch the *Host Job Queue* on the Dashboard to monitor
 
 ### Resizing a Disk
 
+ {{< note >}}
+Back ups are always important. However, back ups are particularly important if you’re modifying your disk – a problem could occur and you may lose your data. Don’t resize your disk until you’ve backed up any important data.
+{{< /note >}}
+
 Resizing allows you to allocate more storage to a disk so you can store more files, or shrink a disk so you have more storage for the other disks in your account. Here's how to resize a disk:
 
 1.  Log in to the [Linode Manager](https://manager.linode.com).
